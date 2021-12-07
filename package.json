@@ -1,0 +1,17 @@
+{
+  "name": "server-drumsolo",
+  "version": "2.0.0",
+  "bin": "main.js",
+  "description": "Play a drum solo from your server logs",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Randolph Riback",
+  "license": "ISC",
+  "dependencies": {
+    "n-readlines": "^1.0.1",
+    "sound-player": "^1.0.13"
+  }
+}
