@@ -1,6 +1,6 @@
 {
   "name": "server-drumsolo",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "bin": "main.js",
   "description": "Play a drum solo from your server logs",
   "main": "main.js",
